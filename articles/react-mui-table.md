@@ -42,7 +42,8 @@ https://mui.com/components/data-grid/
 https://codesandbox.io/s/distracted-mirzakhani-krrxc?file=/src/App.js
 
 下記のように、プラグインのタグをどんどん置いていけばそれっぽいテーブルができてしまいました
-```js
+
+```jsx
     <Grid rows={rows} columns={gridColumns}>
       <PagingState defaultCurrentPage={0} defaultPageSize={10} />
       <DataTypeProvider
