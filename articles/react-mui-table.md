@@ -3,7 +3,7 @@ title: "React+Material UIのテーブルプラグイン"
 emoji: "📊"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ['react', 'materialui', 'javascript']
-published: false
+published: true
 ---
 
 
